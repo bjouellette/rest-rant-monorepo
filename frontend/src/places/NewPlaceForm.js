@@ -97,4 +97,5 @@ function NewPlaceForm() {
 	)
 }
 
+
 export default NewPlaceForm
